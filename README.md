@@ -10,7 +10,7 @@ Hello! I'm James - a front-end developer based in North-West England. I have bee
 ⚔️ **War Cards** is a site where the user can find various pieces of information about key events in history, in a easy to use and responsive way. This was a good project for me to learn React Router.
 ###### ⚡[Live Preview](https://hollosj.github.io/war-cards) | 📁[Code](https://github.com/HollosJ/war-cards)
 
-🇬🇧 **React Countries** is a site utilizing the [RestCountries API](https://restcountries.eu/). This was my first React portfolio project and was pivotal in my learning of React. Date such as the countries flag, language, currency and more can be quickly located due to its live search feature.
+🇬🇧 **React Countries** is a site utilizing the [RestCountries API](https://restcountries.eu/). This was my first React portfolio project and was pivotal in my learning of React. Data such as the countries flag, language, currency and more can be quickly located due to its live search feature.
 ###### ⚡[Live Preview](https://hollosj.github.io/react-countries) | 📁[Code](https://github.com/HollosJ/react-countries)
 
 🗺️ **Nordiq Travel** is a mock travel site I built completely from scratch with no design. This was a good introduction to SASS partials, as well as Gulp.js. Using this combination allowed me to create a well-structured source folder, as well as compile it to a more lightweight build using Gulp.
