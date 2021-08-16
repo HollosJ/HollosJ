@@ -5,8 +5,8 @@
 ### ℹ️ About me:
 
 - 📍 North-West England
-- ♥️ My favourite libraries and tools include VSCode and Sass
-- 🥅 My goals for 2021 include getting a job in front-end development
+- ♥️ My favourite libraries and tools include VSCode, SCSS and React!
+- 🥅 My goals for 2021 include honing in on my current skillset and hopefully getting a job in front-end development
 
 ### 🔧 Languages and Tools:
 
