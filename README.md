@@ -9,19 +9,19 @@ I'm a developer based in North West England - working with the latest tools and 
 
 <h3 align="center">My current technical skills:</h3>
 
-<img align="left" src="https://img.shields.io/badge/HTML5-7000FF?style=for-the-badge&logo=html5&logoColor=white"/>
-<img align="left" src="https://img.shields.io/badge/CSS3-7000FF?style=for-the-badge&logo=css3&logoColor=white"/>
-<img align="left" src="https://img.shields.io/badge/Sass-7000FF?style=for-the-badge&logo=sass&logoColor=white"/>
-<img align="left" src="https://img.shields.io/badge/JavaScript-7000FF?style=for-the-badge&logo=javascript&logoColor=white"/>
-<img align="left" src="https://img.shields.io/badge/React-7000ff?style=for-the-badge&logo=react&logoColor=white"/>
-<img align="left" src="https://img.shields.io/badge/Gulp-7000ff?style=for-the-badge&logo=gulp&logoColor=white"/>
+<img align="center" src="https://img.shields.io/badge/HTML5-7000FF?style=for-the-badge&logo=html5&logoColor=white"/>
+<img align="center" src="https://img.shields.io/badge/CSS3-7000FF?style=for-the-badge&logo=css3&logoColor=white"/>
+<img align="center" src="https://img.shields.io/badge/Sass-7000FF?style=for-the-badge&logo=sass&logoColor=white"/>
+<img align="center" src="https://img.shields.io/badge/JavaScript-7000FF?style=for-the-badge&logo=javascript&logoColor=white"/>
+<img align="center" src="https://img.shields.io/badge/React-7000ff?style=for-the-badge&logo=react&logoColor=white"/>
+<img align="center" src="https://img.shields.io/badge/Gulp-7000ff?style=for-the-badge&logo=gulp&logoColor=white"/>
 <br>
 
 ---
 
 <h3 align="center">Socials</h3>
-[<img align="left" alt="Website" width="26px" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white
+
+[<img align="center" alt="Website" width="26px" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white
 " />](https://www.jameshollos.dev)
-[<img align="left" alt="LinkedIn" width="26px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jameshollos/)
-[<img align="left" alt="Codepen" width="26px" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" />](https://codepen.io/HollosJ)
-<br>
+[<img align="center" alt="LinkedIn" width="26px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jameshollos/)
+[<img align="center" alt="Codepen" width="26px" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" />](https://codepen.io/HollosJ)
