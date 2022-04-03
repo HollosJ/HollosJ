@@ -22,7 +22,7 @@ I'm a developer based in North West England - working with the latest tools and 
 <h3 align="center">Socials</h3>
 
 <p align="center">
-    [WEBSITE](https://jameshollos.dev)
-    [LinkedIn](https://www.linkedin.com/in/jameshollos/)
-    [CodePen](https://codepen.io/HollosJ)
+     [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](anchor link)
+     [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](anchor link)
+     [![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=CodePen&logoColor=white)](anchor link)
 </p>
