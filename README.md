@@ -13,6 +13,7 @@ I'm a developer based in North West England - working with the latest tools and 
 <img src="https://img.shields.io/badge/CSS3-7000FF?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/Sass-7000FF?style=for-the-badge&logo=sass&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-7000FF?style=for-the-badge&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-7000FF?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-7000ff?style=for-the-badge&logo=react&logoColor=white"/>
 <img src="https://img.shields.io/badge/Gulp-7000ff?style=for-the-badge&logo=gulp&logoColor=white"/>
 </p>
