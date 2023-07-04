@@ -11,12 +11,3 @@ Hi there, I'm <a href="https://www.jameshollos.dev/" target="_blank" rel="norefe
 <div align="center">
     HTML, CSS, JavaScript, Tailwind, PHP, Svelte, Alpine JS, React
 </div>
-
----
-
-<h2 align="center">Socials</h4>
-<div align="center">
-    [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://jameshollos.dev)
-    [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jameshollos/)
-    [![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=CodePen&logoColor=white)](https://codepen.io/HollosJ)
-</div>
