@@ -11,3 +11,7 @@ Hi there, I'm <a href="https://www.jameshollos.dev/" target="_blank" rel="norefe
 <div align="center">
     HTML, CSS, JavaScript, Tailwind, PHP, Svelte, Alpine JS, React
 </div>
+
+<br>
+
+[![An image of @hollosj's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hollosj)](https://holopin.io/@hollosj)
