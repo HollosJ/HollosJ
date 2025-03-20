@@ -4,7 +4,7 @@ Hi there, I'm <a href="https://www.hollos.dev/" target="_blank" rel="noreferrer"
 
 <p align="center">
   <!-- Website -->
-  <a href="https://www.hollos.dev" target="_blank" rel="noreferrer">
+  <a href="https://www.hollos.dev/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Website-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
   </a>
   <!-- LinkedIn -->
